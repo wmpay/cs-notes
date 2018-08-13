@@ -2,7 +2,7 @@
 
 # Chapter 1
 
-	- balance your binary trees, idiot
+- balance your binary trees, idiot
 
 # Chapter 2
 
