@@ -1,6 +1,9 @@
+# Architecting for Scale
+
 # Part 1: Availability
 
 ## Chapter 1: What is Availability
+
 	- Reliability: ability of system to perform operations without mistakes
 	- Availability: ability of system to be operational when needed
 	- Causes of poor availability
@@ -11,6 +14,7 @@
 		- technical debt
 
 ## Chapter 2: Five focuses to improve availability
+
 	- assume external dependancies will fail
 	- things to focus on wrt availability:
 		- build with failure in mind
@@ -43,12 +47,14 @@
 				- these procedures should be prepared ahead of time
 
 ## Chapter 3: measuring availability
+
 	- site_availability_percentage = (total_seconds_in_period - seconds_system_down) / total_seconds_in_period
 	- "Nines" 2 nines - 99% available, 6 nines - 99.9999% available
 	- 3 Nines is considered acceptable
 	- Planned maintenance hurts availability
 
 ## Chapter 4: improving your availability
+
 	- Measure and track current availability
 	- Service tiers - labels for services that indicate how critical the service is
 	- Risk matrix - gain visibility into technical debt and associated risk in application

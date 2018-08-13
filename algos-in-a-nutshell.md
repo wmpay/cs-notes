@@ -1,7 +1,11 @@
-#Chapter 1
+# Algorithms in a Nutshell
+
+# Chapter 1
+
 	- balance your binary trees, idiot
 
-#Chapter 2
+# Chapter 2
+
 	- instance (of a problem): a particular input data set to which a program is applied
 	- how you encode the instance effects performance
 	- describe behavior of an algo: rate of growth of execution time as function of size of input problem instance
@@ -46,7 +50,8 @@
 		- O(n^2)
 		- multiplication
 	
-#Chapter 3
+# Chapter 3
+
 	- design pattern: a proven solution to a commonly occuring problem
 	- Algorithm pattern format
 		- name
@@ -58,8 +63,5 @@
 		- related algorithms
 	- floating point implementation
 	- memory allocation
-
-#Chapter 4
-	- 
 
 	

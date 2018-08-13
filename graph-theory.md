@@ -1,3 +1,5 @@
+# THe Fascininating World of Graph Theory
+
 # Chapter 1
 
 - Graph - finite nonempty set V of objects together with a set E consisting of 2-element subsets of V
@@ -18,6 +20,7 @@
 	- every graph has an even number of odd vertices
 
 # Chapter 2
+
 - irregular graph - graph order 2 or more with every 2 vertices having different degrees
 	 - no graph is irregular
 - almost irregular graph - exactly one pair of vertices with same degree
@@ -41,6 +44,7 @@
 - isomorphic graphs - same structure - G can be turned into H by relabeling vertices
 
 # Chapter 3
+
 - Path - subgraph of G whose vertices are ordered such that adjacent list elements are connected by edges
 	- P = (u=v0, v1, ... , vk=v) such that v0v1, ... , vk-1vk are all edges of P. P is u -v path.
 	- number of edges of a path = length
@@ -70,6 +74,7 @@
 - minimum number of vertices dominating a graph is domination number y(G) y=gamma
 
 Chapter 4
+
 - Tree - a connected graph that contains no cycles
 - a graph G is a tree if and only if every two vertices of G are connected by only one path
 - each vertex of degee 1 is called a leaf
