@@ -1,4 +1,4 @@
-# THe Fascininating World of Graph Theory
+# The Fascininating World of Graph Theory
 
 # Chapter 1
 
